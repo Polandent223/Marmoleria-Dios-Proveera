@@ -1,0 +1,11 @@
+FASE 14 - FACTURA VENEZOLANA Y ÓRDENES DE TRABAJO
+
+Incluye:
+- Logo y datos fiscales.
+- Factura ticket y A4.
+- USD, Bs y tasa BCV.
+- Forma de pago y detalle.
+- Enviar resumen por WhatsApp.
+- Órdenes de trabajo con estados y fecha de entrega.
+
+Antes de facturar en Bs, actualiza la tasa BCV.
