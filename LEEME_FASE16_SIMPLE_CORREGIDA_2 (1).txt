@@ -1,9 +1,0 @@
-FASE 16 SIMPLE CORREGIDA 2
-
-Correcciones:
-- Firma digital mejorada para teléfono: ahora detecta el trazo y no guarda en blanco.
-- Ver factura abre la factura completa y baja hasta la vista de impresión.
-- Las etiquetas de todos los productos ya no aparecen solas.
-- Para ver etiquetas, busca por nombre o código.
-- En trabajos, si seleccionas "Otro", aparece un campo para escribir el tipo.
-- Mantiene edición de productos, código después del nombre y exportación simplificada.
